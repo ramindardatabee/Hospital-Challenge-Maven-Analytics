@@ -1,5 +1,6 @@
 # Hospital-Challenge-Maven-Analytics
 Maven Hospital Challenge Analysis
+https://app.powerbi.com/groups/me/reports/5f809dc0-5d61-472c-a879-0fdfce11cf08/7ade8425c89a770e8cb7?experience=power-bi
 Executive Summary:
 This report presents a high-level analysis of patient data from Massachusetts General Hospital, focusing on patient encounters, financial performance, and procedure utilization. Key findings include high readmission rates among older patients, rising healthcare costs over time, and significant variation in procedure costs and durations. Recommendations include strengthening insurance partnerships, promoting cost-effective care settings, and optimizing high-cost procedures.
 Hospital+patients analaysis - Power BI
